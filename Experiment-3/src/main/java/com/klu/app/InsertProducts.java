@@ -1,6 +1,8 @@
 package com.klu.app;
 
-import org.hibernate.*;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
 import com.klu.entity.Product;
 import com.klu.util.HibernateUtil;
 
