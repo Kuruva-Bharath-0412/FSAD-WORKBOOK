@@ -1,0 +1,6 @@
+com\fsad\backend\service\StudentService.class
+com\fsad\backend\repository\StudentRepository.class
+com\fsad\backend\controller\StudentController.class
+com\fsad\backend\BackendApplication.class
+com\fsad\backend\model\Student.class
+com\fsad\backend\controller\ViewController.class

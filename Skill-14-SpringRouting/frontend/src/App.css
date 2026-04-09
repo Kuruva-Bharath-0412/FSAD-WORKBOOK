@@ -1,0 +1,17 @@
+/* App Container */
+.App {
+  min-height: 100vh;
+}
+
+/* Remove default React header styles */
+.App-header {
+  display: none;
+}
+
+.App-logo {
+  display: none;
+}
+
+.App-link {
+  display: none;
+}
